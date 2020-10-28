@@ -1,4 +1,4 @@
-// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+// 2020年10月28日 https://github.com/idealfiller/kyhbirthday
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
@@ -33,9 +33,9 @@ var config = {
         play: "音乐",
         bannar_coming: "颜色",
         balloons_flying: "庆祝开始啦",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        cake_fadein: "生日蛋糕",
+        light_candle: "生日蜡烛",
+        wish_message: "艳慧生日快乐！！！",
         story: "A MESSAGE FOR YOU",
     }
 };
